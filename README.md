@@ -1,5 +1,8 @@
 sup, im kai
 
+
+<div style="text-align: center;">
+<pre style="display: inline-block; text-align: left;">
                ,----------------,              ,---------,
           ,-----------------------,          ,"        ,"|
         ,"                      ,"|        ,"        ,"  |
@@ -18,5 +21,8 @@ sup, im kai
    / ==ooooooooooooooo==.o.  ooo= //   ,`\--{)B     ,"
   /_==__==========__==_ooo__ooo=_/'   /___________,"
   `-----------------------------'
+
+</pre>
+</div>
 
 💻 i break things so you don't have to
